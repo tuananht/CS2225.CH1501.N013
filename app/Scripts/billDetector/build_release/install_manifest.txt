@@ -1,0 +1,9 @@
+/home/luanvt/yolo/CH_TGM/libdarknet.so
+/home/luanvt/yolo/CH_TGM/include/darknet/darknet.h
+/home/luanvt/yolo/CH_TGM/include/darknet/yolo_v2_class.hpp
+/home/luanvt/yolo/CH_TGM/uselib
+/home/luanvt/yolo/CH_TGM/darknet
+/home/luanvt/yolo/CH_TGM/share/darknet/DarknetTargets.cmake
+/home/luanvt/yolo/CH_TGM/share/darknet/DarknetTargets-release.cmake
+/home/luanvt/yolo/CH_TGM/share/darknet/DarknetConfig.cmake
+/home/luanvt/yolo/CH_TGM/share/darknet/DarknetConfigVersion.cmake

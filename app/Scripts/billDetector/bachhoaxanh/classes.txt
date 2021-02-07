@@ -1,0 +1,5 @@
+logo
+worker
+date
+cash
+goods

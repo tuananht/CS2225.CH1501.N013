@@ -1,0 +1,28 @@
+//Font awesome
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+@import '~dropzone/dist/dropzone.css';
+
+@import '~overlayscrollbars/css/OverlayScrollbars.css';
+
+// AdminLTE theme
+// Bootstrap
+// ---------------------------------------------------
+@import "~bootstrap/scss/functions";
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
+
+// Variables and Mixins
+// ---------------------------------------------------
+@import "~admin-lte/build/scss/mixins";
+
+@import "~admin-lte/build/scss/parts/core";
+@import "~admin-lte/build/scss/parts/components";
+@import "~admin-lte/build/scss/parts/extra-components";
+@import "~admin-lte/build/scss/parts/pages";
+@import "~admin-lte/build/scss/parts/plugins";
+@import "~admin-lte/build/scss/parts/miscellaneous";
+
