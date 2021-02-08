@@ -8,12 +8,19 @@
 </p>
 
 # VRA Project 
-**Class:** CS2225.CH1501
+**Môn học:** CS2225.CH1501
 
-**Members**
-- Trần Anh Tuấn
-- Văn Thiên Luân
-- Nguyễn Ngọc Thừa
+**Thành viên trong nhóm**
+- Trần Anh Tuấn - CH2001018
+- Văn Thiên Luân - CH2001008
+- Nguyễn Ngọc Thừa - CH2001017
+
+## Đề tài: Rút trích thông tin trên hóa đơn thanh toán
+
+Thực hiện rút trích một số thông tin từ hóa đơn bánh hóa xanh như: thời gian bán hàng, tổng tiền phải trả, các mặt hàng đã được mua. Đề tài sử dụng phương pháp tesseract, yolov3 để phát hiện và nhận dạng thông tin.
+
+### Kết quả đạt được
+Xây dựng được một ứng dụng rút trích thông tin từ hóa đơn bách hóa xanh ở mức độ thử nghiệm đạt độ chính xác 73% trên tập dữ liệu tự thu thập (39 ảnh).
 
 ## Laravel
 Website is developed based on version 8 of Laravel (a PHP Framework). Laravel is a web application framework with expressive, elegant syntax, accessible, powerful, and provides tools required for large, robust applications.
